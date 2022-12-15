@@ -10,11 +10,7 @@ This library supports PSR-4. <br>
 Based on [QR code decoder / reader for PHP](https://github.com/khanamiryan/php-qrcode-detector-decoder) <br>
 Ported from [ZXing library](https://github.com/zxing/zxing) <br>
 
-## Installation 
-Use [Composer](https://getcomposer.org/):
-```
-composer require ekozinets/qr-code-reader
-```
+Fork for ([https://github.com/zxing/zxing)](https://github.com/dsiddharth2/php-zxing) 
 
 ## Usage 
 From image url
