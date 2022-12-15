@@ -13,7 +13,7 @@ Ported from [ZXing library](https://github.com/zxing/zxing) <br>
 ## Installation 
 Use [Composer](https://getcomposer.org/):
 ```
-composer require libern/qr-code-reader
+composer require ekozinets/qr-code-reader
 ```
 
 ## Usage 
