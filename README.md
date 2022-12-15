@@ -10,11 +10,7 @@ This library supports PSR-4. <br>
 Based on [QR code decoder / reader for PHP](https://github.com/khanamiryan/php-qrcode-detector-decoder) <br>
 Ported from [ZXing library](https://github.com/zxing/zxing) <br>
 
-## Installation 
-Use [Composer](https://getcomposer.org/):
-```
-composer require libern/qr-code-reader
-```
+Fork for [libern/qr-code-reader](https://github.com/libern/qr-code-reader) 
 
 ## Usage 
 From image url
